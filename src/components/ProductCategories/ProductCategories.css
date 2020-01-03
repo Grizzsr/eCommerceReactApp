@@ -1,0 +1,8 @@
+.catList{
+    display: flex;
+    width: 100%;
+}
+
+.categories{
+    margin: 10px;
+}
